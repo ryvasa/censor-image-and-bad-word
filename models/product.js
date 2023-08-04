@@ -6,6 +6,7 @@ const Product = db.define(
   "product",
   {
     name: DataTypes.STRING,
+    description: DataTypes.TEXT,
   },
   {
     freezeTableName: true,

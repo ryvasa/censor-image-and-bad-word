@@ -1267,6 +1267,11 @@ image-q@^4.0.0:
   dependencies:
     "@types/node" "16.9.1"
 
+indonesian-badwords@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/indonesian-badwords/-/indonesian-badwords-1.0.1.tgz#e4fa0607cf2bf79a2144dc62504616e9eb4d8069"
+  integrity sha512-A8V6hklYqql15yelhnx5jkoDLru9hPr/q7TE6S4fICZvb7lbluWUXqGjcWpgmDCsbXpecs38/fbuhvM0em/7CQ==
+
 inflection@^1.13.4:
   version "1.13.4"
   resolved "https://registry.yarnpkg.com/inflection/-/inflection-1.13.4.tgz#65aa696c4e2da6225b148d7a154c449366633a32"
